@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lunch/static/css/main.b2c4c38c.css",
+    "main.js": "/react-lunch/static/js/main.f38612ea.js",
+    "index.html": "/react-lunch/index.html",
+    "main.b2c4c38c.css.map": "/react-lunch/static/css/main.b2c4c38c.css.map",
+    "main.f38612ea.js.map": "/react-lunch/static/js/main.f38612ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c4c38c.css",
+    "static/js/main.f38612ea.js"
+  ]
+}
